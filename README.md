@@ -1,6 +1,6 @@
 # deforestation_carbon_biophysics
 
-
+### Directory
     .
     ├── major_figures                 # Scripts for major figures in the manuscript
     ├── si_figures                    # Scripts for si_figures in the manuscript
