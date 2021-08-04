@@ -1,6 +1,6 @@
 # Codes that support the manuscript "Deforestation-induced climate change reduces carbon storage in remaining tropical forests"
 > by Yue Li, Paulo M. Brando, Douglas C. Morton, David M. Lawrence, Hui Yang, James T. Randerson
-> submitted to Nature Communications
+>> Submitted to Nature Communications
 
 ### Directory
     .
