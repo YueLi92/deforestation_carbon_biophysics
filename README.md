@@ -6,7 +6,7 @@
     .
     ├── major_figures                 # Scripts for major figures in the manuscript
     ├── si_figures                    # Scripts for figures in the supplementary materials of the manuscript
-    ├── Obs_mod_sensitivity           # Scripts for biomass sensitivity to climate
+    ├── tables                        # Scripts for all tables in the manuscript
     ├── LICENSE
     └── README.md
 
@@ -18,10 +18,17 @@
     |   ├── figure 4
     |   ├── figure 5
     
-    ├── si_figures                    # Scripts for si_figures in the manuscript
+    ├── si_figures                    # Scripts for figures in the supplementary materials of the manuscript
     |   ├── figure S1
     |   ├── figure S2
     |   ├── figure S3
     |   ├── figure S4
     
-    ├── Obs_mod_sensitivity           # Scripts for biomass sensitivity to climate
+    ├── tables                         # Scripts for all tables in the manuscript
+    |   ├── table 1
+    |   ├── table 2
+    |   ├── table 3
+    |   ├── table S1
+    |   ├── table S2
+    |   ├── table S3
+    |   ├── table S4
