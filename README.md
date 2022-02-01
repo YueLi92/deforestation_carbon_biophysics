@@ -1,6 +1,6 @@
 # Codes that support the manuscript "Deforestation-induced climate change reduces carbon storage in remaining tropical forests"
 > by Yue Li, Paulo M. Brando, Douglas C. Morton, David M. Lawrence, Hui Yang, James T. Randerson
->> To be submitted to Nature Communications
+>> Submitted to Nature Communications
 
 ### Folder Directory
     .
@@ -23,11 +23,15 @@
     |   ├── figure S2
     |   ├── figure S3
     |   ├── figure S4
+    |   ├── figure S5
+    |   ├── figure S6
+    |   ├── figure S7
     
     ├── tables                         # Scripts for all tables in the manuscript
     |   ├── table 1
     |   ├── table 2
     |   ├── table 3
+    |   ├── table 4
     |   ├── table S1
     |   ├── table S2
     |   ├── table S3
